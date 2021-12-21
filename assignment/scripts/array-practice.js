@@ -38,8 +38,9 @@ console.log('Last animal is', animalArray[3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
-let length = animalArray.length;
-animalArray.length = 4;
+//First try. Got the right answer to print, but unecessary.
+//let length = animalArray.length;
+//animalArray.length = 4;
 console.log('Last animal is:', animalArray.length);
 
 // 4. Adding & Removing Array Items
